@@ -1,5 +1,31 @@
 {
   "games": [
-
+    {
+      "name": "Minecraft",
+      "wiki": {
+        "name": "Minecraft Wiki",
+        "subdomain": "minecraft",
+        "farm": "gamepedia",
+        "fullUrl": "https://minecraft.gamepedia.com/"
+      }
+    },
+    {
+      "name": "World of Warcraft",
+      "wiki": {
+        "name": "Wowpedia",
+        "subdomain": "wow",
+        "farm": "gamepedia",
+        "fullUrl": "https://wow.gamepedia.com/"
+      }
+    },
+    {
+      "name": "Paladins",
+      "wiki": {
+        "name": "Paladins Wiki",
+        "subdomain": "paladins",
+        "farm": "gamepedia",
+        "fullUrl": "https://paladins.gamepedia.com/"
+      }
+    }
   ]
 }
