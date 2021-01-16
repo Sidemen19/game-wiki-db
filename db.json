@@ -26,6 +26,15 @@
         "farm": "gamepedia",
         "fullUrl": "https://paladins.gamepedia.com/"
       }
+    },
+    {
+      "name": "SMITE",
+      "wiki": {
+        "name": "SMITE Wiki",
+        "subdomain": "smite",
+        "farm": "gamepedia",
+        "fullUrl": "https://smite.gamepedia.com/"
+      }
     }
   ]
 }
