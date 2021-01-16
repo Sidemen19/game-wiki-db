@@ -53,6 +53,15 @@
         "farm": "gamepedia",
         "fullUrl": "https://zelda.gamepedia.com/"
       }
+    },
+    {
+      "name": "Terraria",
+      "wiki": {
+        "name": "Terraria Wiki",
+        "subdomain": "terraria",
+        "farm": "gamepedia",
+        "fullUrl": "https://terraria.gamepedia.com/"
+      }
     }
   ]
 }
