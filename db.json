@@ -44,6 +44,15 @@
         "farm": "gamepedia",
         "fullUrl": "https://pathofexile.gamepedia.com/"
       }
+    },
+    {
+      "name": "The Legend of Zelda",
+      "wiki": {
+        "name": "Zelda Wiki",
+        "subdomain": "zelda",
+        "farm": "gamepedia",
+        "fullUrl": "https://zelda.gamepedia.com/"
+      }
     }
   ]
 }
