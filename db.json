@@ -35,6 +35,15 @@
         "farm": "gamepedia",
         "fullUrl": "https://smite.gamepedia.com/"
       }
+    },
+    {
+      "name": "Path of Exile",
+      "wiki": {
+        "name": "Path of Exile Wiki",
+        "subdomain": "pathofexile",
+        "farm": "gamepedia",
+        "fullUrl": "https://pathofexile.gamepedia.com/"
+      }
     }
   ]
 }
