@@ -62,6 +62,15 @@
         "farm": "gamepedia",
         "fullUrl": "https://terraria.gamepedia.com/"
       }
+    },
+    {
+      "name": "Command ",
+      "wiki": {
+        "name": "Command ",
+        "subdomain": "cnc.gamepedia.com",
+        "farm": "gamepedia",
+        "fullUrl": "https://cnc.gamepedia.com.gamepedia.com/"
+      }
     }
   ]
 }
